@@ -3,16 +3,15 @@
 ## 🚀 Frontend Developer | MERN Stack Engineer
 
 <div align="center">
-  <img src="https://github.com/dev-abib/dev-abib/blob/main/js.gif" alt="Coding Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/dev-abib/dev-abib/main/js.gif" alt="Coding Animation" width="100%" />
 </div>
 
 👨‍💼 **Frontend Developer at Softvence**  
-🔭 Building scalable, high-performance web applications  
-🌱 Currently learning **FastAPI** to strengthen backend & API development  
+🔭 Building production-ready, scalable web applications  
 💬 Ask me about **React.js, Next.js, Node.js, Express, MongoDB, Tailwind CSS**  
 📍 Based in **Dhaka, Bangladesh**
 
-👨‍💻 Portfolio: **https://abib-portfolio-v2.vercel.app**  
+👨‍💻 Portfolio: https://abib-portfolio-v2.vercel.app  
 ⚡ **Fun fact:** I enjoy biking & traveling when I’m away from the keyboard 🚴‍♂️
 
 ---
@@ -24,46 +23,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abib-portfolio-v2.vercel.app)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/md.abib.ahmed.dipto)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/md_abib_ahmed_dipto)
-
----
-
-## ⭐ Featured Projects
-
-### 🧾 Tax Management System (Softvence – Production)
-**Role:** Frontend Lead  
-**Tech:** React.js, Tailwind CSS, REST APIs  
-- Developed secure, scalable UI for tax-related workflows  
-- Implemented reusable components & optimized performance  
-- Collaborated with backend & QA teams  
-
-🔒 *Private / Client project*
-
----
-
-### 🏥 MedSync360 – SaaS Healthcare Platform
-**Tech:** React.js, Tailwind CSS, Node.js  
-- Built responsive dashboards & appointment flows  
-- Focused on UX consistency & scalability  
-
-🔗 *Project available on request*
-
----
-
-### 🛒 Buy-a-Coffee Platform
-**Tech:** JavaScript, HTML, CSS  
-- Simple donation-based platform  
-- Clean UI & client-side logic  
-
-🔗 https://github.com/dev-abib/buy-a-coffee
-
----
-
-### 🎙️ Voice Assistant (Python)
-**Tech:** Python  
-- Voice command handling & automation logic  
-- Focused on modular architecture  
-
-🔗 https://github.com/dev-abib/voice_assistant_eve
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27643479/md-abib-ahmed-dipto)
 
 ---
 
@@ -81,6 +41,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap)
+![SASS](https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=sass)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
@@ -92,10 +53,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-abib&show_icons=true&theme=dark)
+![Profile Views](https://komarev.com/ghpvc/?username=dev-abib&label=Profile%20Views&color=0e75b6&style=flat)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=dev-abib&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-abib&show_icons=true&theme=dark)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-abib&layout=compact&theme=dark)
-
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=dev-abib&color=0)
