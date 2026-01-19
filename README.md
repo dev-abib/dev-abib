@@ -3,7 +3,7 @@
 ## 🚀 Frontend Developer | MERN Stack Engineer
 
 <div align="center">
-  <img src="https://github.com/dev-abib/dev-abib/blob/main/assets/js.gif" alt="Coding Animation" width="100%" />
+  <img src="https://github.com/dev-abib/dev-abib/blob/main/js.gif" alt="Coding Animation" width="100%" />
 </div>
 
 👨‍💼 **Frontend Developer at Softvence**  
