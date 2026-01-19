@@ -53,10 +53,15 @@
 
 ## 📊 GitHub Stats
 
+<!-- Profile Views -->
 ![Profile Views](https://komarev.com/ghpvc/?username=dev-abib&label=Profile%20Views&color=0e75b6&style=flat)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dev-abib&theme=dark)
+<!-- GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-abib&theme=dark&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-abib&show_icons=true&theme=dark)
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-abib&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-abib&layout=compact&theme=dark)
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-abib&layout=compact&theme=dark&hide_border=true)
+
